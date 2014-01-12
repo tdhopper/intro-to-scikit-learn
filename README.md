@@ -14,4 +14,6 @@ The slides for this presentation are generated from _Intro to Scikit-Learn.ipynb
 
 To view the slides in a browser run the following command:
   
-  ipython nbconvert Intro\ to\ Scikit-Learn.ipynb --to slides --post serve
+```
+ipython nbconvert Intro\ to\ Scikit-Learn.ipynb --to slides --post serve
+```
