@@ -10,6 +10,10 @@ Instead of discussing particular machine learning algorithms provided by the pac
 
 ------
 
+A (poor quality) video of this talk is [here](https://www.youtube.com/watch?v=2kx19t8bNMU).
+
+------
+
 The slides for this presentation are generated from _Intro to Scikit-Learn.ipynb_.
 
 To view the slides in a browser run the following command:
